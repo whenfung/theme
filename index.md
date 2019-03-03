@@ -1,4 +1,4 @@
-简单点，写作的方式简单点。[关于我](https://professordeng.github.io/about)
+[档案](/) | [关于我](https://professordeng.github.io/about)
 
 ## 文章列表 
 
