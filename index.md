@@ -1,4 +1,4 @@
-[档案](/) | [关于我](https://professordeng.github.io/about)
+[archives](/) | [about me](https://professordeng.github.io/about)
 
 ## 文章列表 
 
@@ -12,3 +12,4 @@
     {% endfor %}
 </ul>
 {% endfor %}
+
