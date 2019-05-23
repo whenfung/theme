@@ -1,6 +1,6 @@
-[archives](/) | [about me](https://professordeng.github.io/about)
+[档案库](/) | [关于](https://professordeng.github.io/about)
 
-## list of articles
+## 文章列表
 
 {% assign posts_by_year = site.posts | group_by_exp:"post", "post.date | date: '%Y' " %}
 {% for group in posts_by_year %}
