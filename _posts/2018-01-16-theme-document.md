@@ -70,7 +70,9 @@ int main(){
 
 ## 公式
 
-书写公式的时候，需要在文章最后加上 `{{site.math}}` 表示有公式需要渲染，而且由于 markdown 的 `|` 是有特殊含义的，为了避免公式里的 `|` 被 markdown 解释器渲染，可以用 `\mid` 代替 `|`。
+书写公式的时候，需要在文章最后加上 `site.math` 表示有公式需要渲染，而且由于 markdown 的 `|` 是有特殊含义的，为了避免公式里的 `|` 被 markdown 解释器渲染，可以用 `\mid` 代替 `|`。
+
+
 $$
 \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial L}{\partial \dot{q}_j} \right ) = \frac {\partial L}{\partial q_j}
 $$
@@ -78,5 +80,4 @@ $$
 ### 视频
 
 <video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls="" preload=""></video>
-
 {{site.math}}
