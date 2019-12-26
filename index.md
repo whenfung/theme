@@ -1,4 +1,4 @@
-[Archives](/) | [About Me](https://professordeng.github.io/about)
+[Archives](/) | [Resources](/resources)
 
 ## List of Articles
 
