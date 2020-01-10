@@ -20,7 +20,7 @@ title: How to build a blog
 
 - [domain](https://cloud.tencent.com/) (optional)
 
-  GITHUB will provide a domain name called `usename.github.io` to you, also you can bind personal domain name for you website.
+  GITHUB will provide a domain name called `usename.github.io` to you. also you can bind personal domain name for you website.
 
 - [Jekyll Docs](https://jekyllrb.com/)
 
