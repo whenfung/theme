@@ -22,6 +22,8 @@ title: How to build a blog
 
   GITHUB will provide a domain name called `usename.github.io` to you. also you can bind personal domain name for you website.
 
+  注意：如果在国内访问不了，首先 ping 一下 `name.github.io` 得到 IP，然后域名解析的时候直接解析到 IP 即可。 
+
 - [Jekyll Docs](https://jekyllrb.com/)
 
 - [Jekyll themes](https://jekyllthemes.org/)
