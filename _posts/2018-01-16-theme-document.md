@@ -31,7 +31,7 @@ title: How to build a blog
 ## Typography
 
 ### Picture
-![图标](/img/example.jpg)
+![图标](/theme/img/example.jpg)
 
 ### Quote
 > I think, therefore I am -- René Descartes
