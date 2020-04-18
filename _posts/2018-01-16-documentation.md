@@ -6,10 +6,9 @@ title: 主题使用文档
 
 1. [GitHub](https://github.com) ：申请 GitHub 账号存放你的博客内容。 
 2. [GitHub Desktop](https://git-scm.com/) ：GitHub Desktop 软件实现本地仓库和 GitHub 服务器仓库的同步。
-
-- [自定义域名](https://cloud.tencent.com/)（可选）：GitHub 会提供一个 `username.github.io` 的域名给你，如果你喜欢自定义域名，可点击链接去买一个域名解析到 GitHub 仓库。
-- [Jekyll Docs](https://jekyllrb.com/) ：博客搭建的一些相关知识，可跳过。
-- [Jekyll themes](https://jekyllthemes.org/) ：Jekyll 的主题网站，说不定里面有一些你喜欢的主题。
+3. [自定义域名](https://cloud.tencent.com/)（可选）：GitHub 会提供一个 `username.github.io` 的域名给你，如果你喜欢自定义域名，可点击链接去买一个域名解析到 GitHub 仓库。
+4. [Jekyll Docs](https://jekyllrb.com/) ：博客搭建的一些相关知识，可跳过。
+5. [Jekyll themes](https://jekyllthemes.org/) ：Jekyll 的主题网站，说不定里面有一些你喜欢的主题。
 
 ## 2. 排版
 
