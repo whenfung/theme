@@ -1,5 +1,5 @@
 # THEME
-[THEME](https://professordeng.com/theme) 是一个基于 [JEKYLL](https://jekyllrb.com/) 的 GitHub 风格的主题。
+[THEME](https://professordeng.com/theme) 是一个基于 [JEKYLL](https://jekyllrb.com/) 的 GitHub 风格的主题，适用于博客、项目文档。
 
 ## 1. 排版
 
