@@ -1,4 +1,4 @@
-[Archives](/) | [Resources](/resources)
+[Archives](/) | [Resources]({{site.baseurl}}/resources)
 
 ## List of Articles
 
