@@ -60,3 +60,20 @@ $$
 
 <video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls="" preload=""></video>
 {{site.math}}
+
+## 3. 附加功能
+
+github 官方支持了一些 Jekyll 插件，我觉得好用，就拿来用了。
+
+### 3.1 github 表情
+
+:smile:
+
+### 3.2 mentions
+
+@professordeng
+
+### 3.3 图片
+
+{% avatar professordeng %}
+{% avatar ericclose %}

@@ -2,11 +2,12 @@ title: Clean Jekyll Theme
 url: https://professordeng.github.io
 baseurl: /theme
 description: ProfessorDeng
-# permalink: none
 
 math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
 
 plugins:
   - jekyll-feed       # 订阅插件
   - jekyll-sitemap    # 站点地图
-  - jekyll-algolia    # 搜索插件
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
