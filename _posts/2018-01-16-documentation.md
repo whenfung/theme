@@ -8,7 +8,7 @@ title: 主题使用文档
 2. [GitHub Desktop](https://desktop.github.com/) ：GitHub Desktop 软件实现本地仓库和 GitHub 服务器仓库的同步。
 3. [Jekyll Docs](https://jekyllrb.com/) ：博客搭建的一些相关知识。
 4. [Jekyll themes](https://jekyllthemes.org/) ：Jekyll 的主题网站，说不定里面有一些你喜欢的主题。
-5. [GitHub 官方指导](https://help.github.com/cn/github/working-with-github-pages).
+5. [GitHub 官方指导](https://help.github.com/cn/github/working-with-github-pages)。
 
 ## 2. 排版
 
