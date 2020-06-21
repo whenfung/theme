@@ -24,8 +24,6 @@ title: 主题使用文档
 
 ### 2.3 代码段
 
-普通代码段如下
-
 ``` c++
 #include <iostream>
 
@@ -36,18 +34,6 @@ int main(){
   return 0;
 }
 ```
-
-有序号的代码段如下
-
-{% highlight ruby linenos %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
-Gist 代码段如下（需要科学上网）
-
-{% gist a1f58da98cebc80c17cd7179af1ef5d0 %}
 
 ### 2.4 字体
 

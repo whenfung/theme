@@ -11,7 +11,6 @@ plugins:
   - jemoji                                # GitHub 表情
   - jekyll-avatar                         # GitHub 头像
   - jekyll-mentions                       # GitHub 提名
-  - jekyll-gist                           # GitHub 代码嵌入
   
 # MathJax 提供数学渲染支持  
 math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
