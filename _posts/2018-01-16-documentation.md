@@ -16,7 +16,7 @@ title: 主题使用文档
 
 ### 2.1 图片
 
-![图片样例](/theme/img/example.jpg)
+![图片样例]({{ site.img }}/example.jpg)
 
 ### 2.2 引用
 
@@ -24,16 +24,30 @@ title: 主题使用文档
 
 ### 2.3 代码段
 
+普通代码段如下
+
 ``` c++
 #include <iostream>
 
 using namespace std;
 
 int main(){
-    cout << "Hello World!";
-    return 0;
+  cout << "Hello World!";
+  return 0;
 }
 ```
+
+有序号的代码段如下
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+Gist 代码段如下（需要科学上网）
+
+{% gist a1f58da98cebc80c17cd7179af1ef5d0 %}
 
 ### 2.4 字体
 
@@ -53,7 +67,7 @@ int main(){
 
 ### 2.6 数学公式
 
-如果你的文章需要数学公式渲染，添加 Liquid 标签 {% raw %} `{{site.math}}` {% endraw %} 到文章末尾。
+如果你的文章需要数学公式渲染，添加 Liquid 标签 {% raw %} `{{ site.math }}` {% endraw %} 到文章末尾。
 
 $$
 \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial L}{\partial \dot{q}_j} \right ) = \frac {\partial L}{\partial q_j}
@@ -61,11 +75,11 @@ $$
 
 ### 2.7 视频
 
-<video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls="" preload=""></video>
+<video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" width = "100%" controls preload></video>
 
 ## 3. 附加功能
 
-github 官方支持了一些 Jekyll 插件，我觉得好用，就拿来用了。
+GitHub 官方支持了一些 Jekyll 插件，具体查看 <https://pages.github.com/versions/>，下面是本主题用到的一些插件。
 
 ### 3.1 github 表情
 

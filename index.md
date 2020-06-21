@@ -7,9 +7,9 @@
 
 <h3>{{ group.name }}</h3>
 <ul>
-    {% for post in group.items %}
-    <li><div style="width:60px;float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-    {% endfor %}
+  {% for post in group.items %}
+    <li><div style="width:60px; float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
 {% endfor %}
 

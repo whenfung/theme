@@ -1,13 +1,17 @@
-title: Clean Jekyll Theme  
-url: https://professordeng.github.io
-baseurl: /theme
-description: ProfessorDeng
+title: Clean Jekyll Theme                 # 网站标题
+url: https://professordeng.com            # 网站域名
+baseurl: /theme                           # 站点路径
+description: ProfessorDeng                # 网站描述
+img: /theme/img                           # 图片路径
 
-math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
-
+# 插件
 plugins:
-  - jekyll-feed       # 订阅插件
-  - jekyll-sitemap    # 站点地图
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
+  - jekyll-feed                           # 订阅插件
+  - jekyll-sitemap                        # 站点地图
+  - jemoji                                # GitHub 表情
+  - jekyll-avatar                         # GitHub 头像
+  - jekyll-mentions                       # GitHub 提名
+  - jekyll-gist                           # GitHub 代码嵌入
+  
+# MathJax 提供数学渲染支持  
+math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
