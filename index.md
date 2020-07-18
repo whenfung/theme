@@ -1,4 +1,6 @@
-[首页](/) | [资源]({{site.baseurl}}/resources)
+[首页](/) | [资源]({{ site.baseurl }}/resources)
+
+---
 
 ## 文章列表
 
